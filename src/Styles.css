@@ -194,14 +194,14 @@ h6 {
 .defaultHero,
 .carsHero {
   min-height: calc(100vh - 66px);
-  background: url("./images/AllianceLogos.png") center/cover no-repeat;
+  background: url("./images/Alliance.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .carsHero {
-  background-image: url("./images/car-2.jpg");
+  background-image: url("./images/Alliance.png");
   min-height: 60vh;
 }
 

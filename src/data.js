@@ -152,7 +152,7 @@ export default [{
     sportPackage: true,
     featured: false,
     mileage:"21 KMPL",
-    description: "Master every performance, enjoy every moment. The BMW 7 Series Sedan stands for self-assured presence, exceptional performance and maximum comfort. As the BMW 750Li powered by a newly developed BMW TwinPower Turbo 8-cylinder petrol engine and with xDrive as standard, it is quite simply created for assuming the leading position. he interior welcomes you with exclusive, high-quality materials which, together with the innovative connectivity features, produce a hitherto unachieved ambience. ",
+    description: "The 4 star subcompact suv has the best in class ride and handling among its rival in its catagory",
     extras: [
       "Leather Wrapped Steering Wheel",
       "Adaptive Cruise Control ",
@@ -208,15 +208,16 @@ export default [{
     sportPackage: true,
     featured: false,
     mileage:"19 KMPL",
-    description: "The A6 Sedan features hallmark Audi design cues combined with intricate details to create an unmistakable presence. The beauty of the A6 Sedan can be seen not just in its design but also in its technology. With intelligent innovations and advanced driver assistance systems, the A6 is more. The strong and elegant exterior of the A6 Sedan needs an interior to match. Setting new class standards, the A6 Sedan delivers luxury and technology like never before.",
+    description: "The Kicks is power by mercedes benz source 1.3L turbo petrol which gives best in class power among all other compact suv's in market.",
     extras: [
-      "Vehicle Stability Control System",
+      "Automatic air-con: Not a breakthrough feature, but comes standard in Kicks",
       "Wireless Phone Charging",
       "Electric Folding Rear View Mirror",
       "Amazon Alexa integration",
-      "Electromechanical steering with speed-sensitive power assistance",
+      "360-Degree Parking Assist: Uses 4 cameras to give all-around view while parking",
       "Dual circuit braking system with division for front and rear",
-      "7 speed S tronic"
+      "Hydralic Steering",
+      "7 speed CVT"
     ],
     images: [{
       fields: {
@@ -264,15 +265,15 @@ export default [{
     sportPackage: true,
     featured: false,
     mileage:"20 KMPL",
-    description: "The Mercedes-AMG GLE Coupe is a fusion of racing-bred tenacity and finely tailored luxury. Beneath its arching rooflines and muscular shoulders you'll experience a mix of verve and versatility not found in ordinary SUVs and not possible in traditional coupes. The AMG GLE 43 Coupe makes more than a bold design statement. With a 385-hp biturbo V6 and AMG Performance 4MATIC sending a torrent of torque to four standard 21-inch wheels, its muscle does the talking with every athletic action. ",
+    description: "The 4 star subcompact suv has the best in class ride and handling among its rival in its catagory",
     extras: [
-      "AMG Performance 4MATIC all-wheel drive",
-      "AMG-enhanced 3.0L V6 biturbo engine",
-      "Aggressive, athletic 4-door coupe design",
-      "Premium interior lighting",
-      "THERMATIC dual-zone automatic climate control",
-      "Remote Start via Mercedes Me Mobile App",
-      "8-inch high-resolution colour screen"
+      "Leather Wrapped Steering Wheel",
+      "Adaptive Cruise Control ",
+      "Seat Memory",
+      "Lane Departure Warning",
+      "Variable Speed Intermittent Wipers",
+      "Hard Disk Drive",
+      "Smart Device Integration"
     ],
     images: [{
       fields: {
@@ -320,15 +321,16 @@ export default [{
     sportPackage: true,
     featured: false,
     mileage:"18 KMPL",
-    description: "The X6 combines the attributes of an SUV (high ground clearance, all-wheel drive and all-weather ability, large wheels and tires) with the stance of a coupé (styling featuring a sloping roof). It was based on the previous generation BMW 5 and 6 Series. Its turbocharged powertrains are both refined and they range from potent to explosive",
+    description: "The Duster is power by mercedes benz source 1.3L turbo petrol which gives best in class power and off road capability among all other compact suv's in market.",
     extras: [
-      "Intercooled Turbo Premium Unleaded I-6",
-      "Speed Sensitive Rain Detecting Variable Intermittent Wipers w/Heated Jets",
-      "Real-Time Traffic Display",
-      "Power Front Seats",
-      "Sport Leather Steering Wheel w/Auto Tilt-Away",
-      "Cruise Control w/Steering Wheel Controls",
-      "Park Distance Control Front And Rear Parking Sensors"
+      "Automatic air-con: Not a breakthrough feature, but comes standard in Kicks",
+      "Wireless Phone Charging",
+      "Electric Folding Rear View Mirror",
+      "Amazon Alexa integration",
+      "360-Degree Parking Assist: Uses 4 cameras to give all-around view while parking",
+      "Dual circuit braking system with division for front and rear",
+      "Hydralic Steering",
+      "7 speed CVT"
     ],
     images: [{
       fields: {
