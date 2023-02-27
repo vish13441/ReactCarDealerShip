@@ -9,7 +9,7 @@ const Cars = () => {
     <>
       <HeroBackground hero="carsHero">
         <Banner title='Our Cars'>
-          <Link to='/' className="btn-primary">
+          <Link to='/' className="btn-primary" style={{color: 'white', marginTop: 10, padding: 10,fontSize: 40,fontWeight: "bolder",backgroundColor: 'brown'}}>
             Return home
         </Link>
         </Banner>

@@ -7,9 +7,9 @@ const Banner = ({ children, title, subtitle }) => {
    
 
     <div  className="banner" >
-      <h1 style={{ color: 'purple' }}>{title}</h1>
+      <h1 style={{color: 'white',fontSize: 40,fontWeight: "bolder", backgroundColor:'black' }}>{title}</h1>
       <div />
-      <p style={{ color: 'purple',fontSize: 40,fontWeight: "bolder"}}>{subtitle}</p>
+      <p style={{ color: 'white',fontSize: 40,fontWeight: "bolder", backgroundColor:'black'}}>{subtitle}</p>
       {children} 
       
     </div>
