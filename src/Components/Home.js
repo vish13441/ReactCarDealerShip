@@ -11,8 +11,8 @@ const Home = () => {
 
     <>
       <HeroBackground>
-        <Banner title="" subtitle="find your dream car here" >
-          <Link to="/cars" className="btn-primary" style={{color: 'white', marginTop: 10, padding: 10,fontSize: 40,fontWeight: "bolder",backgroundColor: 'brown'}}>
+        <Banner title="" subtitle="" >
+          <Link to="/cars" className="btn-primary">
             Our Cars
         </Link>
         </Banner>

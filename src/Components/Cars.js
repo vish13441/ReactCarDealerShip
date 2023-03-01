@@ -8,8 +8,8 @@ const Cars = () => {
   return (
     <>
       <HeroBackground hero="carsHero">
-        <Banner title='Our Cars'>
-          <Link to='/' className="btn-primary" style={{color: 'white', marginTop: 10, padding: 10,fontSize: 40,fontWeight: "bolder",backgroundColor: 'brown'}}>
+        <Banner title=''>
+          <Link to='/' className="btn-primary">
             Return home
         </Link>
         </Banner>

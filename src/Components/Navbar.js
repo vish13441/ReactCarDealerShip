@@ -38,6 +38,10 @@ export default class Navbar extends Component {
               <Link to="/Cars">cars</Link>
             </li>
 
+            <li>
+              <Link to="/Accessories">Accessories</Link>
+            </li>
+
           </ul>
         </div>
       </nav>
